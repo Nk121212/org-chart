@@ -19,3 +19,8 @@ npm run dev
 # Docker (optional)
 docker-compose up --build
 ```
+
+## require library
+d3-org-chart
+jspdf
+html2canvas
